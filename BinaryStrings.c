@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <math.h>
 /*
- 1. Take inputs of string A and B (1 < B <= A = 10^6)
+ 1. Take inputs of string A and B (1 <= B <= A = 10^6)
  2. Compare every possible substring of string A of length string B (string C)
 		to string B
  3. For each comparison, count the number of differences between the two strings
