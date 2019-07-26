@@ -1,4 +1,4 @@
-# The followup in the instructions asked if I couuld solve this problem
+# The followup in the instructions asked if I could solve this problem
 # without using strings, so this is my solution without strings
 class Solution:
     def isPalindrome(self, x: int) -> bool:
